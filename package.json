@@ -1,0 +1,26 @@
+{
+  "name": "gulp-base",
+  "version": "1.0.0",
+  "description": "gulp skeleteon",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Kabir",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "gulp": "3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-less": "^4.0.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0"
+  }
+}
